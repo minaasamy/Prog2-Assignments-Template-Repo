@@ -2,7 +2,7 @@
 //202106429
 #include <iostream>
 using namespace std;
-intmain(){
+int main(){
 string str;
 cin>>str;
 cout<<"Hello, "<<str;
